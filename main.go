@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/hidu/mysql-schema-sync/internal"
+	"github.com/cdy1263/mysql-schema-sync_1/internal"
 )
 
 //user:password@tcp(127.0.0.1:3306)/test
