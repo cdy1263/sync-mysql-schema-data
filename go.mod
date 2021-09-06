@@ -1,4 +1,4 @@
-module github.com/cdy1263/mysql-schema-sync_1
+module github.com/cdy1263/sync-mysql-schema-data_1
 
 go 1.12
 
